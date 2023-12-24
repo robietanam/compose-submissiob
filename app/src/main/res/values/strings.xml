@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ComposeSubmission</string>
+    <string name="scroll_to_top">Scroll to Top</string>
+    <string name="search_hero">Cari rumah idamanmu</string>
+    <string name="home_page">Beranda</string>
+    <string name="about_page">Profil</string>
+    <string name="noImage">No Image</string>
+</resources>

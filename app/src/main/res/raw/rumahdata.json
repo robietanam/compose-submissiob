@@ -1,0 +1,212 @@
+[
+  {
+    "id": 0,
+    "name": "Historic Home in the Heart of the City",
+    "description": "This investment property is located in a growing area and has the potential for high returns. It has 3",
+    "author": "Mary Brown",
+    "photoUrl": "https://source.unsplash.com/random/900x700/?property,rural"
+  },
+  {
+    "id": 1,
+    "name": "Spacious 3 Bedroom House for Sale in Jakarta",
+    "description": "bedrooms, 2 bathrooms, and a small backyard. The property is close to schools, parks, and shops. It is also",
+    "author": "John Smith",
+    "photoUrl": "https://source.unsplash.com/random/900x700/?property,cozy"
+  },
+  {
+    "id": 2,
+    "name": "Luxurious Condo in the Heart of the City",
+    "description": "a short drive to the highway, making it easy to commute to work or school. The property is perfect for a",
+    "author": "Jane Doe",
+    "photoUrl": "https://source.unsplash.com/random/900x700/?property"
+  },
+  {
+    "id": 3,
+    "name": "Stunning Beachfront Villa for Sale",
+    "description": "landlord or investor. It is also a great place to raise a family.",
+    "author": "Peter Jones",
+    "photoUrl": "https://source.unsplash.com/random/900x700/?property,city"
+  },
+  {
+    "id": 4,
+    "name": "Modern Townhouse with Garage",
+    "description": "This unique property has a lot of character and is located in a quiet and charming neighborhood. It has 2",
+    "author": "Sarah Brown",
+    "photoUrl": "https://source.unsplash.com/random/900x700/?property,cheap"
+  },
+  {
+    "id": 5,
+    "name": "Newly Renovated Apartment in the City Center",
+    "description": "bedrooms, 1 bathroom, and a large garden.",
+    "author": "David Williams",
+    "photoUrl": "https://source.unsplash.com/random/900x700/?property,expensive"
+  },
+  {
+    "id": 6,
+    "name": "Affordable Family Home in the Suburbs",
+    "description": "This cozy cottage is located in the mountains and is the perfect place to relax and escape the hustle and",
+    "author": "Elizabeth Johnson",
+    "photoUrl": "https://source.unsplash.com/random/900x700/?property,mountain"
+  },
+  {
+    "id": 7,
+    "name": "Investment Property in a Growing Area",
+    "description": "bustle of city life. It has 1 bedroom, 1 bathroom, and a fireplace.",
+    "author": "Michael Thomas",
+    "photoUrl": "https://source.unsplash.com/random/900x700/?property,big"
+  },
+  {
+    "id": 8,
+    "name": "Unique Property with Character",
+    "description": "This historic home is located in the heart of the city and has been lovingly restored. It has 4 bedrooms,",
+    "author": "Jennifer Green",
+    "photoUrl": "https://source.unsplash.com/random/900x700/?property,beach"
+  },
+  {
+    "id": 9,
+    "name": "Cozy Cottage in the Mountains",
+    "description": "3 bathrooms, and a grand staircase.",
+    "author": "William White",
+    "photoUrl": "https://source.unsplash.com/random/900x700/?property,suburbs"
+  },
+  {
+    "id": 11,
+    "name": "Cozy 2-Bedroom Apartment in Downtown",
+    "description": "This charming apartment is located in the heart of the city and offers 2 bedrooms, 1 bathroom, and a cozy living room. Ideal for urban living.",
+    "author": "Alice Johnson",
+    "photoUrl": "https://source.unsplash.com/random/900x700/?apartment,city"
+  },
+  {
+    "id": 12,
+    "name": "Luxury Villa with Ocean View",
+    "description": "Experience ultimate luxury in this stunning villa with 4 bedrooms, 4 bathrooms, a private pool, and breathtaking ocean views.",
+    "author": "David Williams",
+    "photoUrl": "https://source.unsplash.com/random/900x700/?villa,ocean"
+  },
+  {
+    "id": 13,
+    "name": "Spacious Family Home in Suburbia",
+    "description": "A perfect family home with 3 bedrooms, 2.5 bathrooms, a large backyard, and proximity to schools and parks. Great for families.",
+    "author": "Sarah Davis",
+    "photoUrl": "https://source.unsplash.com/random/900x700/?home,family"
+  },
+  {
+    "id": 14,
+    "name": "Modern Loft in Artistic District",
+    "description": "This stylish loft features an open design, high ceilings, and 1 bedroom. Perfect for those who appreciate art and design.",
+    "author": "Daniel Lee",
+    "photoUrl": "https://source.unsplash.com/random/900x700/?loft,art"
+  },
+  {
+    "id": 15,
+    "name": "Rural Retreat with Acreage",
+    "description": "Escape to the countryside with this 5-bedroom farmhouse on a vast piece of land. Ideal for those seeking a peaceful retreat.",
+    "author": "Emily Brown",
+    "photoUrl": "https://source.unsplash.com/random/900x700/?farmhouse,rural"
+  },
+  {
+    "id": 16,
+    "name": "Elegant Townhouse with Garden",
+    "description": "An elegant townhouse with 3 bedrooms, 2 bathrooms, and a beautiful garden. Perfect for those who love outdoor living.",
+    "author": "James Smith",
+    "photoUrl": "https://source.unsplash.com/random/900x700/?townhouse,garden"
+  },
+  {
+    "id": 17,
+    "name": "Mountain Cabin Getaway",
+    "description": "Cozy cabin nestled in the mountains, featuring 2 bedrooms, 1 bathroom, and a serene environment for nature lovers.",
+    "author": "Olivia White",
+    "photoUrl": "https://source.unsplash.com/random/900x700/?cabin,mountain"
+  },
+  {
+    "id": 18,
+    "name": "Beachfront Condo with Sunset Views",
+    "description": "Wake up to breathtaking ocean views in this beachfront condo with 2 bedrooms, 2 bathrooms, and direct beach access.",
+    "author": "William Taylor",
+    "photoUrl": "https://source.unsplash.com/random/900x700/?condo,beach"
+  },
+  {
+    "id": 19,
+    "name": "Historic Mansion in the City Center",
+    "description": "Step back in time with this grand historic mansion featuring 6 bedrooms, 4 bathrooms, and timeless architectural details.",
+    "author": "Sophia Clark",
+    "photoUrl": "https://source.unsplash.com/random/900x700/?mansion,historic"
+  },
+  {
+    "id": 20,
+    "name": "Sleek Urban Studio Apartment",
+    "description": "A compact and stylish studio apartment in the heart of the city. Ideal for urban professionals seeking modern living.",
+    "author": "Michael Anderson",
+    "photoUrl": "https://source.unsplash.com/random/900x700/?apartment,urban"
+  },
+  {
+  "id": 21,
+  "name": "Seaside Cottage with Panoramic Views",
+  "description": "Escape to the coast in this charming seaside cottage. 2 bedrooms, 1 bathroom, and stunning panoramic views of the ocean.",
+  "author": "Natalie Martin",
+  "photoUrl": "https://source.unsplash.com/random/900x700/?cottage,beach"
+  },
+  {
+    "id": 22,
+    "name": "Contemporary City Penthouse",
+    "description": "Live in luxury with this contemporary penthouse in the city center. 3 bedrooms, 2.5 bathrooms, and a private rooftop terrace.",
+    "author": "Daniel Cooper",
+    "photoUrl": "https://source.unsplash.com/random/900x700/?penthouse,city"
+  },
+  {
+    "id": 23,
+    "name": "Rustic Log Cabin in the Woods",
+    "description": "Experience the rustic charm of a log cabin in the woods. 2 bedrooms, 1 bathroom, and a tranquil forest setting.",
+    "author": "Laura Evans",
+    "photoUrl": "https://source.unsplash.com/random/900x700/?logcabin,woods"
+  },
+  {
+    "id": 24,
+    "name": "Golf Course View Townhome",
+    "description": "Enjoy golf course views from this 2-bedroom townhome with spacious living areas and a private patio for outdoor relaxation.",
+    "author": "Samuel Brown",
+    "photoUrl": "https://source.unsplash.com/random/900x700/?townhome,golf"
+  },
+  {
+    "id": 25,
+    "name": "Mountain View Retreat",
+    "description": "Escape to the mountains with this 3-bedroom retreat. Enjoy stunning mountain views, a fireplace, and a hot tub.",
+    "author": "Hannah White",
+    "photoUrl": "https://source.unsplash.com/random/900x700/?mountainview,retreat"
+  },
+  {
+    "id": 26,
+    "name": "Downtown Studio Loft",
+    "description": "Live in the heart of downtown in this trendy studio loft. Modern design, city views, and proximity to nightlife.",
+    "author": "William Davis",
+    "photoUrl": "https://source.unsplash.com/random/900x700/?studioloft,city"
+  },
+  {
+    "id": 27,
+    "name": "Historic Riverside Home",
+    "description": "Step back in time with this historic riverside home. 4 bedrooms, 3 bathrooms, and a riverside location with scenic views.",
+    "author": "Olivia Turner",
+    "photoUrl": "https://source.unsplash.com/random/900x700/?historichome,riverside"
+  },
+  {
+    "id": 28,
+    "name": "Charming Bungalow in Suburbia",
+    "description": "A charming bungalow with 2 bedrooms, 1 bathroom, and a spacious backyard. Perfect for a cozy suburban lifestyle.",
+    "author": "James Wilson",
+    "photoUrl": "https://source.unsplash.com/random/900x700/?bungalow,suburb"
+  },
+  {
+    "id": 29,
+    "name": "Luxurious Ski Chalet",
+    "description": "Experience luxury in the mountains with this 5-bedroom ski chalet. Ski-in/ski-out access, hot tub, and mountain views.",
+    "author": "Sophie Anderson",
+    "photoUrl": "https://source.unsplash.com/random/900x700/?skichalet,mountain"
+  },
+  {
+    "id": 30,
+    "name": "Modern Condo in the Art District",
+    "description": "Live in style in this modern condo in the artistic district. 1 bedroom, open layout, and proximity to art galleries.",
+    "author": "Michael Smith",
+    "photoUrl": "https://source.unsplash.com/random/900x700/?condo,artdistrict"
+  }
+]
